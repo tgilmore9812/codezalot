@@ -63,7 +63,6 @@ namespace Cypherz
                     }
                 }
             }
-            MessageBox.Show(Creds);
             var data = new Teacher
             {
                 credentials = Creds,
